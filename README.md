@@ -1,15 +1,16 @@
 ## Hello! 👋
 
-My name is Michael Avrahami, and I'm a soon-to-be graduate from Stuyvesant High School, and incoming freshman to SUNY Binghamton, with an intended major in computer science.
-
-I love to collaborate on many different kinds of projects and see something nice come together over the course of time. Generally projects in my GitHub come in one of two forms:
+My name is Michael Avrahami, and I'm a soon-to-be graduate from Stuyvesant High School, and incoming freshman to SUNY Binghamton, with an intended major in computer science. 
+<br></br>Here is a brief overview of the projects I've worked on so far. Most of them fall into one of two categories:
 <br></br>
 
-**School Projects**
+#### **School Projects**
+
 These are projects I worked on for classes in school like Systems Level Programming and Cybersecurity, generally with one or two other people. Repositories in this section include:
+<br></br>
+#### **Personal Projects**
 
 
-**Personal Projects**
 These are projects I worked on in my own time purely for fun, and can range from little dumb ideas to games to astronomy tools and more. Repositories in this section include:
 
 
